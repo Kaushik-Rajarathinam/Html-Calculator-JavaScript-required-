@@ -50,7 +50,7 @@
       align-self: center;
   }
 
-  p3 {
+  p3 { /*This is a custom tag. Represents text */
     word-spacing:0.05em;
     font-family: Arial;
     color: FireBrick;
