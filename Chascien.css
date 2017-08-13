@@ -1,0 +1,69 @@
+/* The Data is raw */
+
+  body {
+  	text-shadow: 5em;
+  	background-color: rgba(1, 1 , 1, 0.5);
+  }
+
+  h1 {
+  	font-size: 40px;
+  	color: DarkSalmon;
+  	font-family: Calibri;
+  }
+
+  h2 {
+  	font-size: 30px;
+  	color: Salmon;
+  	font-family: Arial;
+  }
+
+  h3 {
+  	font-size: 20px;
+  	color: DarkSalmon;
+  	font-family: Arial;
+  }
+
+  div {
+    border: 3px solid Salmon;
+  }
+
+  form {
+    border: 3px solid Salmon;
+  }
+
+  input{
+  	font-family: Calibri;
+  	font-size: 20px;
+  	height: 40px;
+  	color: grey;
+
+  }
+
+  button {
+  	background-color: Salmon;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      display: inline-block;
+      font-size: 16px;
+      align-self: center;
+  }
+
+  p3 {
+    word-spacing:0.05em;
+    font-family: Arial;
+    color: FireBrick;
+    align-items: center;
+  }
+
+  textarea {
+  	font-family: Calibri;
+  	color: red;
+  	font-size: 20px;
+  }
+
+  a {
+  	text-decoration: ;
+  	color: Salmon;
+  }
